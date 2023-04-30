@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Pay for Blob UI</title>
+</head>
+<body>
+  <h1>Pay for Blob</h1>
+
+  {% if result %}
+    <h2>Result:</h2>
+    <pre>{{ result | tojson(indent=2) }}</pre>
+    <p>Random Number: {{ random_number }}</p>
+    <p>Namespace ID: {{ namespace_id }}</p>
+  {% endif %}
+
+  <form method="post">
+    <label for="random_number">Random Number:</label>
+    <input type="number" id="random_number" name="random_number" required>
+    <button type="submit">Submit</button>
+  </form>
+</body>
+</html>
