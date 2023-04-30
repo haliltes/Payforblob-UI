@@ -25,7 +25,7 @@ This project allows you to manage Payforblob transactions with a simple and user
 
 ### 2- A successful output example is as follows. You can find the block number and check it on the explorer.
 
-![image](https://user-images.githubusercontent.com/76253089/232177931-1a23f7b4-040b-4f2b-93de-a33b536765e5.png)
+![image](https://user-images.githubusercontent.com/113587994/235368132-5d992bbb-d2b2-4795-8c0c-2b2fd2c0575f.png)
 
 ### 3- Explorer: https://testnet.mintscan.io/celestia-incentivized-testnet
 
