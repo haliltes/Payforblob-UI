@@ -19,16 +19,16 @@ The project is built using Flask, a popular tool for developing web applications
 This project allows you to manage Payforblob transactions with a simple and user-friendly interface. Once you have entered the required information correctly, you can easily perform Payforblob transactions.
 
 # How it Works?
-### 1- To get started, you need to access the website. Once you are on the website, it will ask you to enter a random number. After entering the number, click the submit button and wait for the output.
+### 1- To get started, you need to access the website. Once you are on the website, you will be asked to enter your Node IP and Port information. Before starting Celestia Blockspacerace-0, make sure to set the gateway as 0.0.0.0. After entering the information, click the submit button and wait for the output. Port always "26659"
 
-![image](https://user-images.githubusercontent.com/76253089/232177942-d182fa45-3370-4ca6-b52d-45ff6fd42523.png)
+![image](https://github.com/haliltes/Payforblob-UI/assets/113587994/78532746-e1ee-45d9-be43-57681e9939f7)
 
-### 2- A successful output example is as follows. You can find the block number and check it on the explorer.
+### 2- A successful output example would be as follows. You can copy the output on the right side of the "Transaction Hash" text and access the details of your transaction on the explorer mentioned in step 3.
 
-![image](https://user-images.githubusercontent.com/113587994/235368132-5d992bbb-d2b2-4795-8c0c-2b2fd2c0575f.png)
+![image](https://github.com/haliltes/Payforblob-UI/assets/113587994/14f229bd-6722-4539-9817-8dc392fd08b5)
 
 ### 3- Explorer: https://testnet.mintscan.io/celestia-incentivized-testnet
 
-![image](https://user-images.githubusercontent.com/76253089/232178028-e878e773-daa2-451c-9eef-882de71e2e5c.png)
+![image](https://github.com/haliltes/Payforblob-UI/assets/113587994/a12c63b8-f816-4af0-aa9b-4b87016e3c94)
 
 
